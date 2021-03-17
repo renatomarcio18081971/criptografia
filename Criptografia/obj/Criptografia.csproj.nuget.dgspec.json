@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projetos\\Git\\Criptografia\\Criptografia\\Criptografia.csproj": {}
+    "D:\\Projetos\\c_sharp\\criptografia\\Criptografia\\Criptografia.csproj": {}
   },
   "projects": {
-    "D:\\Projetos\\Git\\Criptografia\\Criptografia\\Criptografia.csproj": {
+    "D:\\Projetos\\c_sharp\\criptografia\\Criptografia\\Criptografia.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projetos\\Git\\Criptografia\\Criptografia\\Criptografia.csproj",
+        "projectUniqueName": "D:\\Projetos\\c_sharp\\criptografia\\Criptografia\\Criptografia.csproj",
         "projectName": "Criptografia",
-        "projectPath": "D:\\Projetos\\Git\\Criptografia\\Criptografia\\Criptografia.csproj",
+        "projectPath": "D:\\Projetos\\c_sharp\\criptografia\\Criptografia\\Criptografia.csproj",
         "packagesPath": "C:\\Users\\Renato\\.nuget\\packages\\",
-        "outputPath": "D:\\Projetos\\Git\\Criptografia\\Criptografia\\obj\\",
+        "outputPath": "D:\\Projetos\\c_sharp\\criptografia\\Criptografia\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
