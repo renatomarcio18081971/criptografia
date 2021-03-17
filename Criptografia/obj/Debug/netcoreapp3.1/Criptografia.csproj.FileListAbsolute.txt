@@ -1,0 +1,13 @@
+D:\Projetos\Git\Criptografia\Criptografia\bin\Debug\netcoreapp3.1\Criptografia.exe
+D:\Projetos\Git\Criptografia\Criptografia\bin\Debug\netcoreapp3.1\Criptografia.deps.json
+D:\Projetos\Git\Criptografia\Criptografia\bin\Debug\netcoreapp3.1\Criptografia.runtimeconfig.json
+D:\Projetos\Git\Criptografia\Criptografia\bin\Debug\netcoreapp3.1\Criptografia.runtimeconfig.dev.json
+D:\Projetos\Git\Criptografia\Criptografia\bin\Debug\netcoreapp3.1\Criptografia.dll
+D:\Projetos\Git\Criptografia\Criptografia\bin\Debug\netcoreapp3.1\Criptografia.pdb
+D:\Projetos\Git\Criptografia\Criptografia\obj\Debug\netcoreapp3.1\Criptografia.csprojAssemblyReference.cache
+D:\Projetos\Git\Criptografia\Criptografia\obj\Debug\netcoreapp3.1\Criptografia.AssemblyInfoInputs.cache
+D:\Projetos\Git\Criptografia\Criptografia\obj\Debug\netcoreapp3.1\Criptografia.AssemblyInfo.cs
+D:\Projetos\Git\Criptografia\Criptografia\obj\Debug\netcoreapp3.1\Criptografia.csproj.CoreCompileInputs.cache
+D:\Projetos\Git\Criptografia\Criptografia\obj\Debug\netcoreapp3.1\Criptografia.dll
+D:\Projetos\Git\Criptografia\Criptografia\obj\Debug\netcoreapp3.1\Criptografia.pdb
+D:\Projetos\Git\Criptografia\Criptografia\obj\Debug\netcoreapp3.1\Criptografia.genruntimeconfig.cache
